@@ -2,7 +2,7 @@
 #'
 #' @description geefirth fits GEE with Firth-type penalization to provide
 #' bias-corrected finite  estimate of the regression coefficient  in case of separation or near-to-separation. In addition,
-#' it provides bias-correctedsandwich estimate of the standard error of the penalized GEE estimate.
+#' it provides bias-corrected sandwich estimate of the standard error of the penalized GEE estimate.
 #'
 #' @param formula Similar as geeglm
 #'
